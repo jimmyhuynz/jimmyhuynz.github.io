@@ -8,12 +8,12 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Jimmy Ng
   avatar: bio-photo.jpg
-  bio: "All about my logs"
-  email: laderast@ohsu.edu
+  bio: "All about my log"
+  email: #username
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: #username
   linkedin: #username
-  github: laderast
+  github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
