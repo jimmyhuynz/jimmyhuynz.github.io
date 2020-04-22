@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I a newbie, Learning more is my goal.
+I have worked for many years in IT Support but I would like to learn more and practice more to sastify my curiosity.
 
 ## Current Interests and Projects:
 
