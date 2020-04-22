@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Reading
 excerpt: "Recent Reading"
 ---
 
