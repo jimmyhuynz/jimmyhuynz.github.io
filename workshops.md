@@ -4,6 +4,7 @@ title: Workshops
 excerpt: "Recent Workshops"
 ---
 
-# Workshops I've Put Together
+# To be updated soon
 
+# Some for reading:
 - [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
