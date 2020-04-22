@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: JIMMY LOGS
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Jimmy Ng
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  bio: "All about my logs"
   email: laderast@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: laderast
