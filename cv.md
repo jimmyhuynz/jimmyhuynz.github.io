@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+This page will be updated as I am not looking for jobs now.
 
 ## Education
 
@@ -65,6 +65,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2020 -->
 
 
